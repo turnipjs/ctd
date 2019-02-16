@@ -1,0 +1,23 @@
+{
+  "name": "ctd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turnipjs/ctd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turnipjs/ctd/issues"
+  },
+  "homepage": "https://github.com/turnipjs/ctd#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
